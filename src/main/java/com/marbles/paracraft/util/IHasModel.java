@@ -1,5 +1,5 @@
 package com.marbles.paracraft.util;
 
-public interface ItemModel {
+public interface IHasModel {
     public void registerModels();
 }

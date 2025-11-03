@@ -3,5 +3,6 @@ item.platinum_ingot.name=Platinum Ingot
 item.cobalt_ingot.name=Cobalt Ingot
 item.meteorite_ingot.name=Meteorite Ingot
 item.living_ingot.name=Living Ingot
+item.copper_ingot.name=Copper Ingot
 
 itemGroup.tab_paracraft_items=Paracraft Items
